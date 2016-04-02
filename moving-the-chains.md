@@ -62,6 +62,11 @@ Now you're probably asking yourself that there are no way NFL owners are going t
 
 The blockchain will also give team owners more data about their financial state which will allow them to make better business decisions. 
 
+### Owner
+
+Professional sports teams (like any other large business) requires data quality in real-time or near real-time, upon wich to base their analytical and decision support systems. The ticket deparment can base ticket prices based off data from the past ten home games.  The concession department can order more of a certain type of beer that is selling better than others. The need for more data is driven by the need for making better business decisions faster, using better data, with more transparency in data-driven decision making and its business results. Blockchain also allows to decrease the operating costs for teams by limiting the staff of the team accounting or IT deparment. Either way, by being on a blockchain, the team has a greater opprtunity to become even more profitable than they are today.
+
+For a league that is predicating on moving forward, it is quite ironic that this sentiment has not translated into the business side of football. Utilizing old business practices have caused the National Football League to suffer massive public relation hits with both players and common sports fans.Owners are seen as a old boy's club made of billionaires who have schemed their way to wealth. By using blockchain and smart contract technology, owners can maintain their rightful place as one of the more lucrative sports leagues on the planet while being the utmost transparent. Not only can the owners change the way they are being viewed, but they can also change the way the business of sports is conducted. Now that's moving the chains forward toward progress. 
 
 
 
