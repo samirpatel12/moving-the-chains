@@ -1,8 +1,8 @@
 Title: Moving The Chains to the Blockchain
 
-# Section 1
+# PRoblem
 
-## Section 1.1
+## Solution
 
 ### Section 1.1.1
 
