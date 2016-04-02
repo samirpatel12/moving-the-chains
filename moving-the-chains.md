@@ -33,9 +33,18 @@ The problem identified above can be summarized as follows: mutliple parties - ea
 
 How does a blockchain add value here? When most (if not all) aspects of teams' portfolio is tracked on a chain, the innacuracies are easily spotted. For revenue sharing, the players benefit by getting the correct cut. For stadium financing, the city isn't duped into paying for a stadium the owner can easily afford. 
 
-Where do the smart contracts come in?
+In football, "moving the chains" is synonyms with first downs and progress. Each  the team moves the chains, it gives itself a new array of options, oppportunities, and knowledge. The playbook opens up. There is a playbook out there authored by some of the world's most foward thinkers titled Blockchain and it provides the ability to move the chains of sports business.
+
+A blockchain is a distributed ledger where transactions are validated and updated through consensus of the participants in that specific blockchain. For teams and players that are directly affected by the financial disclosings of other teams, blockchains offer a harmonized solution for ensuring transparency and accountability. Additionally, they offer near instant settlement of dues for the revenue sharing program (cash flow) and timely/accurate information on the coming salary cap.
+
+As the diagram below shows, any stakeholder of the revenue streams of the NFL can serve as a validator on the blockchain.  Each team will input their revenues on the blockchain shared by the other teams. Total team revenues can be updated after each game or immediately as a revenue is brought in. This allows for teams to project the amount the would need to contribute to revenue sharing quicker and more accurately.  Futhermore, the NFL will be able to provide a more accurate projection for team salary caps the following year, seeing as how they ae based off the previous years total. 
+
+Playes will benefit from the implementation of a blockchain because know they can be assured that there are no creative accounting tricks being deployed to lower rightful share of the total revenue pie. Player unions can have peace of mind knowing that the financial documents outlining the league revenues is accurate because of its inherent transparent nature. Teams are unable to modify revenues because as each revenue is incurred, it is recorded on the blockchain. This data allows the player unions to better negotiate player compensation during collective bargaining negotiations.
+
+The technology also helps the league maintain parity which is the ultimate goal of revenue sharing.  First, it ensures that the richer teams are contributing their fair share into the revenue sharing fund. Smart contracts can automatically deduct each teams established contribution to the revenue sharing pie.  The smart contracts prevent creative accounting. Small market owners can know that the richer teams are not hiding revenues from them. It also allows the league to open up free agency sooner, which allows to teams to formalize their roster sooner before the start of the season.  The league gives itself a month to investigate team financial documents and establish the salary cap.  Smart contracts can distribute the funds dedicated to player salaries shortly after the last play of the Superbowl. Teams can sign players soon after that.  This allows teams to formalize their roster soon in the offseason, allowing them more time to strategize and gameplan for the upcoming season. 
+
+
 
 Additional examples:
-
 - endorsements (social media)
 - crowdsourcing where a player plays
