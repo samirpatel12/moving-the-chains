@@ -13,11 +13,20 @@ excerpt:   "A snippet of information"
 
 ---
 
-What do blockchains and sports have in common? A lot more than one might expect. This post is a think-piece written collaboratively with [Samir Patel](https://twitter.com/samirpatellaw) while we were kicking it marmot style at MSU this weekend. #lawyerswhocode
+What do blockchains and sports have in common? A lot more than one might expect. This post is a think-piece written collaboratively with [Samir Patel](https://twitter.com/samirpatellaw) while we were kicking it marmot style at Michigan State University this weekend. #lawyerswhocode
 
 Despite professional sport leagues and affiliated teams being considered businesses under the American laws that govern commerce, there have been particular laws and precedents putting professional sport in a different legal consideration than ordinary business. Investigating these precedents helps to understand how owners have recently strengthened their grip on the monetary flow of sport.
 
-In today's sport industry there is a push by players to maintain an equitable split in revenues to ensure ownership groups do not exploit them.  This has been of particular importance over the past five years during collective bargaining agreements. Players associations are not the only groups who are affected by the finanancial management of professional sport owners. Taxpayers and local governments also share an interest in the manner owners operate teams. With an increase in public subsidization of sport teams, taxpayers have a natural vested concern for professional sports.
+
+In today's sport industry there is a push by stakeholders to maintain an equitable split in revenues to ensure ownership groups do not exploit them.  This has been of particular importance over the decades during collective bargaining agreements. When discussing collective bargaining agreements, the ideas of revenue sharing, player compensation/salary caps, and taxes are seperate ideas but are, in fact, inextricably linked. Revenue sharing and salary cap restrictions are the two points for particular concern under the notion of a collective bargaining agreement. 
+
+Revenue sharing concerns itself with the league creating revenue streams and requiring its teams to shre those streams based upon different standards established by each league individually. Generally speaing, shared revenues primarily include local and national television rights. The shared revenues are intended to help the lower income and small market franchises create a competitive balance through the league.
+
+This would seem to be great for the Cleveland Brown's fan who hopes to one day have a winning season, however, revenue sharing serves as a pressure point to players and the amount they can should be paid. In professional sports, a salary cap is an agreement or rule that places a limit on the amount of money that a team can spend on a player. So the higher the salary cap, the more players can be paid. Any withholding of revenue by the owners can diminish a player's salary.  In fact, in Feb 2016, an arbitrator ordered the NFL to pay back $120 million to the NFLPA for what the league called an "accounting error." This averages out to $71000 to each player. This is a significant amount to the rookie in one year contract.
+ 
+   Players associations are not the only groups who are affected by the finanancial management of professional sport owners. Taxpayers and local governments also share an interest in the manner owners operate teams. With an increase in public subsidization of sport teams, taxpayers have a natural vested concern for professional sports.
+
+
 
 There are documented uses of creative accounting practices by owners, which fatten their wallets while often times taking advantage of players, taxpayers, and local governments alike. Owners hide revenues and certain expenses to paint a picture of poor financial team health to the three parties in order to maximize player salary efficiency and public subsidization.   
 
