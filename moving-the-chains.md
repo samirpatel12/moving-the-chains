@@ -8,13 +8,12 @@ meta:      true
 author:    zach
 thumbnail: "a picture"
 category:  distributed business
-tags:      [sports, sportslaw, spartans]
+tags:      [sports, sportslaw, legaltech ]
 excerpt:   "A snippet of information"
 
 ---
 
 What do blockchains and sports have in common? A lot more than one might expect. This post is a think-piece written ~collaboratively with~ mostly by [Samir Patel](https://twitter.com/samirpatellaw) while we were kicking it marmot style at Michigan State University this weekend. #lawyerswhocode
-
 
 ## Sports business practices
 
